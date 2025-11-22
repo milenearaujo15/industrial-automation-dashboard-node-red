@@ -75,7 +75,7 @@ Tela completa que permite:
 
 **🔌 Atuadores Elétricos**
 - Slider para controle de posição
-- -Slider de velocidade
+- Slider de velocidade
 - Funções:
   * Setup: reseta velocidade e posição
   * Home: envia para posição 0
