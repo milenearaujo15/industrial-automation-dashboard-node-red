@@ -161,7 +161,7 @@ Sistema mostra dinamicamente:
 
 ---
 
-##📄 **Relatório PDF**
+## 📄 **Relatório PDF**
 
 O sistema gera um arquivo com o nome:
 
@@ -202,26 +202,26 @@ Inclui:
 
 ---
 
-##Tela de Histórico em Pilhas
+## Tela de Histórico em Pilhas
 ![img81](https://github.com/user-attachments/assets/4167dce4-a75b-44f1-9c7c-e663f8caba36)
 
 ![img85](https://github.com/user-attachments/assets/af02ad65-9be1-4f39-a79e-a0b2da175331)
 
 ---
 
-##Tela Banco de Dados
+## Tela Banco de Dados
 ![img93](https://github.com/user-attachments/assets/a8c2b0cf-45f7-473c-8f59-5f0937ac822c)
 
 ![img96](https://github.com/user-attachments/assets/b57c9b46-17d6-4b0e-90df-23bf078581cb)
 
 ---
 
-##Tela Câmera IP
+## Tela Câmera IP
 ![img104](https://github.com/user-attachments/assets/a626561c-f2f2-4ad2-ba9d-fc27ebfd1fef)
 
 ---
 
-##Tela Recriação de Senha
+## Tela Recriação de Senha
 ![img107](https://github.com/user-attachments/assets/836549d8-fdfb-48bc-80ab-305e2c14b280)
 
 ---
