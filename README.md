@@ -31,7 +31,7 @@ Este sistema permite:
 
 ## 🔐 **1. Autenticação e Segurança**
 
-A tela inicial possui:
+A tela Inicial possui:
 - Campo de usuário e senha
 - Usuário padrão: **senai / 1234**
 - Bloqueio automático por 3 tentativas falhas
@@ -66,7 +66,7 @@ Tela completa que permite:
 **🔧 Modo Manual / Automático**
 - Botão para alternar os modos
 - Modo Manual desabilita processos automáticos
-- Modo Automático segue a lógica pré programada da planta
+- Modo Automático segue a lógica pré-programada da planta
 
 **🔩 Atuadores Pneumáticos**
 - Controle individual
@@ -184,7 +184,7 @@ Inclui:
 
 ---
 
-## Tela incial
+## Tela Inicial
 ![img68](https://github.com/user-attachments/assets/7f98b322-44d8-469a-9f98-106c2faab17e)
 
 ---
