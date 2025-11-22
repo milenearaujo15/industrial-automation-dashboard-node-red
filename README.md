@@ -1,9 +1,9 @@
-Industrial Automation Dashboard — Node-RED, OPC-UA & MySQL
+# Industrial Automation Dashboard — Node-RED, OPC-UA & MySQL
 
 Sistema completo de controle, supervisão, histórico e monitoramento de uma planta industrial, desenvolvido como prova técnica da São Paulo Skills (Indústria 4.0). Este projeto integra Node-RED, MySQL, OPC-UA, dashboards interativos e autenticação avançada para controlar e monitorar uma célula industrial real com sensores, atuadores pneumáticos, atuadores elétricos e câmera IP.
 
 
-🚀 **Visão Geral do Sistema**
+# 🚀 **Visão Geral do Sistema**
 
 Este sistema permite:
 - Autenticação de usuários com bloqueio por tentativas
@@ -29,7 +29,7 @@ Este sistema permite:
 
 ---
 
-🔐 **1. Autenticação e Segurança**
+##🔐 **1. Autenticação e Segurança**
 
 A tela inicial possui:
 - Campo de usuário e senha
@@ -48,7 +48,7 @@ Também inclui:
 
 ---
 
-🧭 **2. Navegação (Tela Inicial)**
+##🧭 **2. Navegação (Tela Inicial)**
 
 Recursos:
 - Barra de navegação superior com hover animado
@@ -59,7 +59,7 @@ Recursos:
 
 ---
 
-⚙️ **3. Controle e Supervisão da Planta**
+##⚙️ **3. Controle e Supervisão da Planta**
 
 Tela completa que permite:
 
@@ -90,7 +90,7 @@ Sistema mostra dinamicamente:
 
 ---
 
-📦 **4. Tela de Estoque**
+##📦 **4. Tela de Estoque**
 
 - Representação visual dos 9 slots
 - Cada slot muda de cor conforme a peça armazenada
@@ -99,7 +99,7 @@ Sistema mostra dinamicamente:
 
 ---
 
-🗃️ **5. Histórico em Pilhas**
+##🗃️ **5. Histórico em Pilhas**
 
 - Exibição das últimas 10 peças detectadas
 - Itens mais novos substituem os antigos
@@ -112,7 +112,7 @@ Sistema mostra dinamicamente:
 
 ---
 
-🗄️ **6. Tela Banco de Dados**
+##🗄️ **6. Tela Banco de Dados**
 
 - Dropdown para escolher tabela
 - Filtros por cor (vermelho, azul, verde etc.)
@@ -125,7 +125,7 @@ Sistema mostra dinamicamente:
 
 ---
 
-📷 **7. Tela Câmera**
+##📷 **7. Tela Câmera**
 
 - Pop-up pedindo confirmação antes de iniciar a live
 - Streaming da câmera disponível em todas as telas
@@ -133,7 +133,7 @@ Sistema mostra dinamicamente:
 
 ---
 
-🔑 **8. Recriação de Senha**
+##🔑 **8. Recriação de Senha**
 
 - Tela específica acessada via “Esqueceu a senha?”
 - Altera a senha no sistema de forma real
@@ -141,7 +141,7 @@ Sistema mostra dinamicamente:
 
 ---
 
-# 📚 **Banco de Dados (MySQL)**
+##📚 **Banco de Dados (MySQL)**
 
 *Tabela Estoque*
 
@@ -161,7 +161,7 @@ Sistema mostra dinamicamente:
 
 ---
 
-📄 **Relatório PDF**
+##📄 **Relatório PDF**
 
 O sistema gera um arquivo com o nome:
 
@@ -175,10 +175,49 @@ Inclui:
 
 ---
 
-📸 **Prints das Telas**
+# 📸 **Prints das Telas**
+
+## Tela de Login
 ![img57](https://github.com/user-attachments/assets/72340b35-0e8c-45fa-adc5-036d9456987d)
 
+![img58](https://github.com/user-attachments/assets/b1ece9c3-fb55-4ccf-8f80-a2af18c96f48)
+
+![img61](https://github.com/user-attachments/assets/d84a18dc-0ab5-4514-aa20-daf1c79d91fd)
+
+
+## Tela incial
+![img68](https://github.com/user-attachments/assets/7f98b322-44d8-469a-9f98-106c2faab17e)
+
+
+## Tela de Controle e Supervisão
+![img72](https://github.com/user-attachments/assets/6a426b2d-1d5b-4eff-be21-dbf029ff53e3)
+
+![img73](https://github.com/user-attachments/assets/ba1cbe39-948e-4925-b2a8-5aaaa3ae94d9)
+
+## Tela de Estoque
+![img77](https://github.com/user-attachments/assets/96208e59-ec22-4834-8162-e90011d27b57)
+
+##Tela de Histórico em Pilhas
+![img81](https://github.com/user-attachments/assets/4167dce4-a75b-44f1-9c7c-e663f8caba36)
+
+![img85](https://github.com/user-attachments/assets/af02ad65-9be1-4f39-a79e-a0b2da175331)
+
+
+##Tela Banco de Dados
+![img93](https://github.com/user-attachments/assets/a8c2b0cf-45f7-473c-8f59-5f0937ac822c)
+
+![img96](https://github.com/user-attachments/assets/b57c9b46-17d6-4b0e-90df-23bf078581cb)
+
+
+##Tela Câmera IP
+![img103](https://github.com/user-attachments/assets/904c3450-2ec1-476b-8ae2-0ebbe43df43b)
+
+![img104](https://github.com/user-attachments/assets/a626561c-f2f2-4ad2-ba9d-fc27ebfd1fef)
+
+##Tela Recriação de Senha
+![img107](https://github.com/user-attachments/assets/836549d8-fdfb-48bc-80ab-305e2c14b280)
 
 ---
+
 
 
